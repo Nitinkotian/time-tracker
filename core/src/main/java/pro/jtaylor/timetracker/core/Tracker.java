@@ -13,6 +13,7 @@ public class Tracker {
     
     /**
      * Add Method
+     * * @param TimeEntry entry for entries
      */
     public void add(TimeEntry entry) {
         entries.add(entry);
